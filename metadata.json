@@ -1,6 +1,6 @@
 {
-  "name": "Example Token",
-  "symbol": "EXMPL",
-  "description": "Example token from Solana Making a Token guide.",
-  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
+  "name": "BagDrop",
+  "symbol": "BAG",
+  "description": "Have a chance in winning SOL-Bag every Hour!",
+  "image": "https://raw.githubusercontent.com/Gaiser147/wiwi-token/refs/heads/main/image.png"
 }
